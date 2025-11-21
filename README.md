@@ -1,22 +1,27 @@
 <div align="center">
-    <img align="center" src="https://raw.githubusercontent.com/whwdzg/Glowing_Players/main/pack.png" alt="logo" width="200">
-    <h1 align="center">Glowing_Players</h1>
-    <p align="enter">A Minecraft mod/datapack which will always give glowing effect to players.</p>
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/whwdzg/Glowing_Players">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/whwdzg/Glowing_Players">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/whwdzg/Glowing_Players">
-    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/whwdzg/Glowing_Players">
-    <img alt="GitHub (Pre-)Release Date" src="https://img.shields.io/github/release-date-pre/whwdzg/Glowing_Players">
-    <img alt="GitHub release (with filter)" src="https://img.shields.io/github/v/release/whwdzg/Glowing_Players">
-    <img alt="GitHub tag (with filter)" src="https://img.shields.io/github/v/tag/whwdzg/Glowing_Players">
+    <img align="center" src="" alt="logo" width="200">
+    <h1 align="center">Invincible Players</h1>
+    <p align="enter">A Minecraft datapack which gives resistance 255 and strength 255 effect to players.</p>
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/LoopTJ/Invincible_Players">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/LoopTJ/Invincible_Players">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LoopTJ/Invincible_Players">
+    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/LoopTJ/Invincible_Players">
+    <img alt="GitHub (Pre-)Release Date" src="https://img.shields.io/github/release-date-pre/LoopTJ/Invincible_Players">
+    <img alt="GitHub release (with filter)" src="https://img.shields.io/github/v/release/LoopTJ/Invincible_Players">
+    <img alt="GitHub tag (with filter)" src="https://img.shields.io/github/v/tag/LoopTJ/Invincible_Players">
     </br>
 </div>
 
 # Notice
-**Since 1.0.1, Glowing Players will not support Minecraft veriosn below 1.21**
+Current datapack is for Minecraft 1.21.1; it should support other Minecraft versions if the pack.mcmeta pack format is set correctly:
+	1.21.4 = 61
+	1.21.5 = 71
+	1.21.6 - 8 = 81
+	1.21.9 - 10 = 88
+	1.21.11 = 90
+These versions were not tested nor were older versions. I used <a href="https://misode.github.io/pack-mcmeta/" target="_blank">pack.mcmeta Generator</a> to lookup the supported format integer.
 
-# Modrinth(Fastest, Including most versions)
-[https://modrinth.com/datapack/glowing_players](https://modrinth.com/datapack/glowing_players)
+# Inspired by whwdzg
+<a href="https://github.com/whwdzg/Glowing_Players" target="_blank">Glowing_Players</a>
 
-# CurseForge(Only few versions)
-[https://legacy.curseforge.com/minecraft/mc-mods/glowing-players](https://legacy.curseforge.com/minecraft/mc-mods/glowing-players)
+
